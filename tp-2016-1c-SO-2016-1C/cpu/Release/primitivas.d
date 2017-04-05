@@ -1,0 +1,1 @@
+primitivas.d: ../primitivas.c

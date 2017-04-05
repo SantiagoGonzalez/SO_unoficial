@@ -1,0 +1,597 @@
+[ERROR] 20:25:49:438 UMC/(3657:3657): No se pudo conectar al SWAP
+[INFO] 20:26:10:836 UMC/(3714:3714): Se conecto correctamente al SWAP
+[INFO] 20:27:33:495 UMC/(3758:3758): Se conecto correctamente al SWAP
+[INFO] 20:28:46:636 UMC/(3833:3833): Se conecto correctamente al SWAP
+[INFO] 20:34:52:269 UMC/(4025:4025): Se conecto correctamente al SWAP
+[INFO] 20:34:52:269 UMC/(4025:4025): Frames creados
+[INFO] 20:34:52:269 UMC/(4025:4025): TLB creada
+[INFO] 20:40:31:88 UMC/(4107:4107): Se conecto correctamente al SWAP
+[INFO] 20:40:31:88 UMC/(4107:4107): Frames creados
+[INFO] 20:40:31:88 UMC/(4107:4107): TLB creada
+[INFO] 20:41:02:136 UMC/(4176:4176): Se conecto correctamente al SWAP
+[INFO] 20:41:02:136 UMC/(4176:4176): Frames creados
+[INFO] 20:41:02:136 UMC/(4176:4176): TLB creada
+[INFO] 20:46:12:374 UMC/(4359:4359): Se conecto correctamente al SWAP
+[INFO] 20:46:12:375 UMC/(4359:4359): Frames creados
+[INFO] 20:46:12:375 UMC/(4359:4359): TLB creada
+[INFO] 20:51:22:123 UMC/(4530:4530): Se conecto correctamente al SWAP
+[INFO] 20:51:22:123 UMC/(4530:4530): Frames creados
+[INFO] 20:51:22:123 UMC/(4530:4530): TLB creada
+[INFO] 20:52:58:373 UMC/(4605:4605): Se conecto correctamente al SWAP
+[INFO] 20:52:58:373 UMC/(4605:4605): Frames creados
+[INFO] 20:52:58:373 UMC/(4605:4605): TLB creada
+[INFO] 11:40:58:519 UMC/(2913:2913): Se conecto correctamente al SWAP
+[INFO] 11:44:31:922 UMC/(2971:2971): Se conecto correctamente al SWAP
+[INFO] 11:45:30:978 UMC/(3025:3025): Se conecto correctamente al SWAP
+[INFO] 11:46:21:528 UMC/(3103:3103): Se conecto correctamente al SWAP
+[INFO] 11:46:53:945 UMC/(3219:3219): Se conecto correctamente al SWAP
+[INFO] 11:47:10:290 UMC/(3269:3269): Se conecto correctamente al SWAP
+[INFO] 11:48:19:97 UMC/(3334:3334): Se conecto correctamente al SWAP
+[INFO] 11:49:32:991 UMC/(3476:3476): Se conecto correctamente al SWAP
+[INFO] 11:49:32:991 UMC/(3476:3476): Frames creados
+[INFO] 11:49:32:991 UMC/(3476:3476): TLB creada
+[ERROR] 15:55:03:924 UMC/(2566:2566): No se pudo conectar al SWAP
+[INFO] 14:48:03:834 UMC/(4584:4584): Se conecto correctamente al SWAP
+[INFO] 14:48:03:947 UMC/(4584:4584): Frames creados
+[INFO] 14:48:03:947 UMC/(4584:4584): TLB creada
+[INFO] 14:48:03:947 UMC/(4584:4584): UMC Escuchando
+[INFO] 14:48:03:947 UMC/(4584:4584): Espero al Nucleo
+[INFO] 15:00:24:315 UMC/(5019:5019): Se conecto correctamente al SWAP
+[INFO] 15:00:24:346 UMC/(5019:5019): Frames creados
+[INFO] 15:00:24:346 UMC/(5019:5019): TLB creada
+[INFO] 15:00:24:346 UMC/(5019:5019): UMC Escuchando
+[INFO] 15:00:24:346 UMC/(5019:5019): Espero al Nucleo
+[INFO] 15:11:51:957 UMC/(5122:5122): Se conecto correctamente al SWAP
+[INFO] 15:11:51:957 UMC/(5122:5122): Frames creados
+[INFO] 15:11:51:957 UMC/(5122:5122): TLB creada
+[INFO] 15:11:51:957 UMC/(5122:5122): UMC Escuchando
+[INFO] 15:11:51:958 UMC/(5122:5122): Espero al Nucleo
+[INFO] 15:13:13:314 UMC/(5145:5145): Se conecto correctamente al SWAP
+[INFO] 15:13:13:314 UMC/(5145:5145): Frames creados
+[INFO] 15:13:13:314 UMC/(5145:5145): TLB creada
+[INFO] 15:13:13:314 UMC/(5145:5145): UMC Escuchando
+[INFO] 15:13:13:315 UMC/(5145:5145): Espero al Nucleo
+[INFO] 15:13:26:223 UMC/(5145:5145): Se conecto el nucleo
+[INFO] 15:13:26:223 UMC/(5145:5145): Se creo el hilo 0 para el nucleo
+[INFO] 15:13:26:223 UMC/(5145:5145): Espero a las CPUs
+[INFO] 15:13:42:8 UMC/(5145:5152): Se desconecto el nucleo, cerrando UMC
+[INFO] 15:14:29:440 UMC/(5173:5173): Se conecto correctamente al SWAP
+[INFO] 15:14:29:440 UMC/(5173:5173): Frames creados
+[INFO] 15:14:29:440 UMC/(5173:5173): TLB creada
+[INFO] 15:14:29:441 UMC/(5173:5173): UMC Escuchando
+[INFO] 15:14:29:441 UMC/(5173:5173): Espero al Nucleo
+[INFO] 15:14:33:419 UMC/(5173:5173): Se conecto el nucleo
+[INFO] 15:14:33:421 UMC/(5173:5173): Se creo el hilo 0 para el nucleo
+[INFO] 15:14:33:422 UMC/(5173:5173): Espero a las CPUs
+[INFO] 15:25:13:627 UMC/(5173:5181): Se desconecto el nucleo, cerrando UMC
+[INFO] 15:28:57:246 UMC/(5297:5297): Se conecto correctamente al SWAP
+[INFO] 15:28:57:247 UMC/(5297:5297): Frames creados
+[INFO] 15:28:57:247 UMC/(5297:5297): TLB creada
+[INFO] 15:28:57:247 UMC/(5297:5297): UMC Escuchando
+[INFO] 15:28:57:247 UMC/(5297:5297): Espero al Nucleo
+[INFO] 15:29:19:185 UMC/(5297:5297): Se conecto el nucleo
+[INFO] 15:29:19:187 UMC/(5297:5297): Se creo el hilo 0 para el nucleo
+[INFO] 15:29:19:187 UMC/(5297:5297): Espero a las CPUs
+[INFO] 15:42:48:824 UMC/(5297:5309): Se desconecto el nucleo, cerrando UMC
+[INFO] 15:43:53:584 UMC/(5385:5385): Se conecto correctamente al SWAP
+[INFO] 15:43:53:584 UMC/(5385:5385): Frames creados
+[INFO] 15:43:53:584 UMC/(5385:5385): TLB creada
+[INFO] 15:43:53:584 UMC/(5385:5385): UMC Escuchando
+[INFO] 15:43:53:585 UMC/(5385:5385): Espero al Nucleo
+[INFO] 15:43:58:663 UMC/(5385:5385): Se conecto el nucleo
+[INFO] 15:43:58:666 UMC/(5385:5385): Se creo el hilo 0 para el nucleo
+[INFO] 15:43:58:666 UMC/(5385:5385): Espero a las CPUs
+[INFO] 15:49:38:796 UMC/(5385:5392): Se desconecto el nucleo, cerrando UMC
+[INFO] 15:50:54:204 UMC/(5426:5426): Se conecto correctamente al SWAP
+[INFO] 15:50:54:205 UMC/(5426:5426): Frames creados
+[INFO] 15:50:54:205 UMC/(5426:5426): TLB creada
+[INFO] 15:50:54:206 UMC/(5426:5426): UMC Escuchando
+[INFO] 15:50:54:206 UMC/(5426:5426): Espero al Nucleo
+[INFO] 15:51:07:308 UMC/(5426:5426): Se conecto el nucleo
+[INFO] 15:51:07:310 UMC/(5426:5426): Se creo el hilo 0 para el nucleo
+[INFO] 15:51:07:310 UMC/(5426:5426): Espero a las CPUs
+[INFO] 15:51:50:805 UMC/(5426:5433): Se desconecto el nucleo, cerrando UMC
+[INFO] 15:52:10:644 UMC/(5454:5454): Se conecto correctamente al SWAP
+[INFO] 15:52:10:644 UMC/(5454:5454): Frames creados
+[INFO] 15:52:10:644 UMC/(5454:5454): TLB creada
+[INFO] 15:52:10:644 UMC/(5454:5454): UMC Escuchando
+[INFO] 15:52:10:644 UMC/(5454:5454): Espero al Nucleo
+[INFO] 15:52:25:577 UMC/(5454:5454): Se conecto el nucleo
+[INFO] 15:52:25:579 UMC/(5454:5454): Se creo el hilo 0 para el nucleo
+[INFO] 15:52:25:579 UMC/(5454:5454): Espero a las CPUs
+[INFO] 16:15:36:459 UMC/(5454:5469): Se desconecto el nucleo, cerrando UMC
+[INFO] 16:16:13:816 UMC/(5587:5587): Se conecto correctamente al SWAP
+[INFO] 16:16:13:817 UMC/(5587:5587): Frames creados
+[INFO] 16:16:13:818 UMC/(5587:5587): TLB creada
+[INFO] 16:16:13:818 UMC/(5587:5587): UMC Escuchando
+[INFO] 16:16:13:818 UMC/(5587:5587): Espero al Nucleo
+[INFO] 16:16:20:727 UMC/(5587:5587): Se conecto el nucleo
+[INFO] 16:16:20:729 UMC/(5587:5587): Se creo el hilo 0 para el nucleo
+[INFO] 16:16:20:729 UMC/(5587:5587): Espero a las CPUs
+[INFO] 16:18:12:348 UMC/(5617:5617): Se conecto correctamente al SWAP
+[INFO] 16:18:12:349 UMC/(5617:5617): Frames creados
+[INFO] 16:18:12:350 UMC/(5617:5617): TLB creada
+[INFO] 16:18:12:350 UMC/(5617:5617): UMC Escuchando
+[INFO] 16:18:12:350 UMC/(5617:5617): Espero al Nucleo
+[INFO] 16:21:22:926 UMC/(5617:5617): Se conecto el nucleo
+[INFO] 16:21:22:926 UMC/(5617:5617): Se creo el hilo 0 para el nucleo
+[INFO] 16:21:22:926 UMC/(5617:5617): Espero a las CPUs
+[INFO] 16:24:04:331 UMC/(5675:5675): Se conecto correctamente al SWAP
+[INFO] 16:24:05:459 UMC/(5675:5675): Frames creados
+[INFO] 16:24:05:459 UMC/(5675:5675): TLB creada
+[INFO] 16:24:08:140 UMC/(5675:5675): UMC Escuchando
+[INFO] 16:24:09:994 UMC/(5675:5675): Espero al Nucleo
+[INFO] 16:24:30:907 UMC/(5675:5675): Se conecto el nucleo
+[INFO] 16:24:32:590 UMC/(5675:5675): Se creo el hilo 0 para el nucleo
+[INFO] 16:24:37:397 UMC/(5675:5675): Espero a las CPUs
+[INFO] 16:27:35:84 UMC/(5820:5820): Se conecto correctamente al SWAP
+[INFO] 16:27:35:85 UMC/(5820:5820): Frames creados
+[INFO] 16:27:35:85 UMC/(5820:5820): TLB creada
+[INFO] 16:27:35:85 UMC/(5820:5820): UMC Escuchando
+[INFO] 16:27:35:86 UMC/(5820:5820): Espero al Nucleo
+[INFO] 16:27:50:211 UMC/(5820:5820): Se conecto el nucleo
+[INFO] 16:27:50:213 UMC/(5820:5820): Se creo el hilo 0 para el nucleo
+[INFO] 16:27:50:214 UMC/(5820:5820): Espero a las CPUs
+[INFO] 16:29:37:168 UMC/(5937:5937): Se conecto correctamente al SWAP
+[INFO] 16:29:38:537 UMC/(5937:5937): Frames creados
+[INFO] 16:29:38:537 UMC/(5937:5937): TLB creada
+[INFO] 16:30:05:346 UMC/(6011:6011): Se conecto correctamente al SWAP
+[INFO] 16:30:05:541 UMC/(6011:6011): Frames creados
+[INFO] 16:30:05:541 UMC/(6011:6011): TLB creada
+[INFO] 16:30:06:481 UMC/(6011:6011): UMC Escuchando
+[INFO] 16:30:08:415 UMC/(6011:6011): Espero al Nucleo
+[INFO] 16:30:59:701 UMC/(6126:6126): Se conecto correctamente al SWAP
+[INFO] 16:30:59:701 UMC/(6126:6126): Frames creados
+[INFO] 16:30:59:701 UMC/(6126:6126): TLB creada
+[INFO] 16:30:59:701 UMC/(6126:6126): UMC Escuchando
+[INFO] 16:30:59:701 UMC/(6126:6126): Espero al Nucleo
+[INFO] 16:35:34:468 UMC/(6387:6387): Se conecto correctamente al SWAP
+[INFO] 16:35:34:468 UMC/(6387:6387): Frames creados
+[INFO] 16:35:34:468 UMC/(6387:6387): TLB creada
+[INFO] 16:35:34:468 UMC/(6387:6387): UMC Escuchando
+[INFO] 16:35:34:468 UMC/(6387:6387): Espero al Nucleo
+[INFO] 16:36:14:4 UMC/(6387:6387): Se conecto el nucleo
+[INFO] 16:36:14:6 UMC/(6387:6387): Se creo el hilo 0 para el nucleo
+[INFO] 16:36:14:7 UMC/(6387:6387): Espero a las CPUs
+[ERROR] 16:53:54:101 UMC/(6634:6634): No se pudo conectar al SWAP
+[INFO] 16:55:03:322 UMC/(6697:6697): Se conecto correctamente al SWAP
+[INFO] 16:55:05:305 UMC/(6697:6697): Frames creados
+[INFO] 16:55:05:305 UMC/(6697:6697): TLB creada
+[INFO] 16:55:11:159 UMC/(6697:6697): UMC Escuchando
+[INFO] 16:55:18:217 UMC/(6697:6697): Espero al Nucleo
+[INFO] 16:55:41:540 UMC/(6697:6697): Se conecto el nucleo
+[INFO] 16:55:43:223 UMC/(6697:6697): Se creo el hilo 0 para el nucleo
+[INFO] 16:55:46:605 UMC/(6697:6697): Espero a las CPUs
+[INFO] 17:05:33:132 UMC/(6936:6936): Se conecto correctamente al SWAP
+[INFO] 17:05:33:148 UMC/(6936:6936): Frames creados
+[INFO] 17:05:33:148 UMC/(6936:6936): TLB creada
+[INFO] 17:05:33:149 UMC/(6936:6936): UMC Escuchando
+[INFO] 17:05:33:149 UMC/(6936:6936): Espero al Nucleo
+[INFO] 17:05:37:285 UMC/(6936:6936): Se conecto el nucleo
+[INFO] 17:05:37:288 UMC/(6936:6936): Se creo el hilo 0 para el nucleo
+[INFO] 17:05:37:288 UMC/(6936:6936): Espero a las CPUs
+[INFO] 17:07:08:309 UMC/(6991:6991): Se conecto correctamente al SWAP
+[INFO] 17:07:08:310 UMC/(6991:6991): Frames creados
+[INFO] 17:07:08:310 UMC/(6991:6991): TLB creada
+[INFO] 17:07:08:310 UMC/(6991:6991): UMC Escuchando
+[INFO] 17:07:08:310 UMC/(6991:6991): Espero al Nucleo
+[INFO] 17:07:34:516 UMC/(6991:6991): Se conecto el nucleo
+[INFO] 17:07:34:518 UMC/(6991:6991): Se creo el hilo 0 para el nucleo
+[INFO] 17:07:34:518 UMC/(6991:6991): Espero a las CPUs
+[INFO] 17:15:53:487 UMC/(7737:7737): Se conecto correctamente al SWAP
+[INFO] 17:15:53:488 UMC/(7737:7737): Frames creados
+[INFO] 17:15:53:488 UMC/(7737:7737): TLB creada
+[INFO] 17:15:53:488 UMC/(7737:7737): UMC Escuchando
+[INFO] 17:15:53:488 UMC/(7737:7737): Espero al Nucleo
+[INFO] 17:15:58:932 UMC/(7737:7737): Se conecto el nucleo
+[INFO] 17:15:58:934 UMC/(7737:7737): Se creo el hilo 0 para el nucleo
+[INFO] 17:15:58:935 UMC/(7737:7737): Espero a las CPUs
+[INFO] 17:16:42:39 UMC/(7819:7819): Se conecto correctamente al SWAP
+[INFO] 17:16:42:39 UMC/(7819:7819): Frames creados
+[INFO] 17:16:42:40 UMC/(7819:7819): TLB creada
+[INFO] 17:16:42:40 UMC/(7819:7819): UMC Escuchando
+[INFO] 17:16:42:40 UMC/(7819:7819): Espero al Nucleo
+[INFO] 17:16:51:16 UMC/(7819:7819): Se conecto el nucleo
+[INFO] 17:16:51:18 UMC/(7819:7819): Se creo el hilo 0 para el nucleo
+[INFO] 17:16:51:18 UMC/(7819:7819): Espero a las CPUs
+[INFO] 17:22:07:229 UMC/(8309:8309): Se conecto correctamente al SWAP
+[INFO] 17:22:07:241 UMC/(8309:8309): Frames creados
+[INFO] 17:22:07:241 UMC/(8309:8309): TLB creada
+[INFO] 17:22:07:241 UMC/(8309:8309): UMC Escuchando
+[INFO] 17:22:07:241 UMC/(8309:8309): Espero al Nucleo
+[INFO] 17:22:19:656 UMC/(8355:8355): Se conecto correctamente al SWAP
+[INFO] 17:22:19:657 UMC/(8355:8355): Frames creados
+[INFO] 17:22:19:657 UMC/(8355:8355): TLB creada
+[INFO] 17:22:19:657 UMC/(8355:8355): UMC Escuchando
+[INFO] 17:22:19:657 UMC/(8355:8355): Espero al Nucleo
+[INFO] 17:22:50:908 UMC/(8355:8355): Se conecto el nucleo
+[INFO] 17:22:50:908 UMC/(8355:8355): Se creo el hilo 0 para el nucleo
+[INFO] 17:22:50:908 UMC/(8355:8355): Espero a las CPUs
+[INFO] 17:25:37:757 UMC/(8469:8469): Se conecto correctamente al SWAP
+[INFO] 17:25:37:759 UMC/(8469:8469): Frames creados
+[INFO] 17:25:37:759 UMC/(8469:8469): TLB creada
+[INFO] 17:25:37:759 UMC/(8469:8469): UMC Escuchando
+[INFO] 17:25:37:759 UMC/(8469:8469): Espero al Nucleo
+[INFO] 17:25:47:927 UMC/(8469:8469): Se conecto el nucleo
+[INFO] 17:25:47:929 UMC/(8469:8469): Se creo el hilo 0 para el nucleo
+[INFO] 17:25:47:930 UMC/(8469:8469): Espero a las CPUs
+[INFO] 17:26:47:735 UMC/(8469:8476): Se desconecto el nucleo, cerrando UMC
+[INFO] 17:29:33:690 UMC/(8624:8624): Se conecto correctamente al SWAP
+[INFO] 17:29:33:691 UMC/(8624:8624): Frames creados
+[INFO] 17:29:33:691 UMC/(8624:8624): TLB creada
+[INFO] 17:29:33:691 UMC/(8624:8624): UMC Escuchando
+[INFO] 17:29:33:691 UMC/(8624:8624): Espero al Nucleo
+[INFO] 17:29:50:244 UMC/(8624:8624): Se conecto el nucleo
+[INFO] 17:29:50:244 UMC/(8624:8624): Se creo el hilo 0 para el nucleo
+[INFO] 17:29:50:244 UMC/(8624:8624): Espero a las CPUs
+[INFO] 17:29:52:347 UMC/(8624:8632): Nucleo solicita Inicializacion del programa con pid: 6
+[INFO] 17:29:52:350 UMC/(8624:8632): Se inicializo correctamente el programa correspondiente al PID: 6
+[INFO] 17:33:21:376 UMC/(8624:8632): Se desconecto el nucleo, cerrando UMC
+[INFO] 17:33:51:6 UMC/(8676:8676): Se conecto correctamente al SWAP
+[INFO] 17:33:51:6 UMC/(8676:8676): Frames creados
+[INFO] 17:33:51:6 UMC/(8676:8676): TLB creada
+[INFO] 17:33:51:6 UMC/(8676:8676): UMC Escuchando
+[INFO] 17:33:51:6 UMC/(8676:8676): Espero al Nucleo
+[INFO] 17:33:53:317 UMC/(8676:8676): Se conecto el nucleo
+[INFO] 17:33:53:319 UMC/(8676:8676): Se creo el hilo 0 para el nucleo
+[INFO] 17:33:53:319 UMC/(8676:8676): Espero a las CPUs
+[INFO] 17:33:56:664 UMC/(8676:8683): Nucleo solicita Inicializacion del programa con pid: 6
+[INFO] 17:33:56:667 UMC/(8676:8683): Se inicializo correctamente el programa correspondiente al PID: 6
+[INFO] 17:35:16:372 UMC/(8676:8683): Se desconecto el nucleo, cerrando UMC
+[INFO] 17:38:02:16 UMC/(8789:8789): Se conecto correctamente al SWAP
+[INFO] 17:38:02:281 UMC/(8789:8789): Frames creados
+[INFO] 17:38:02:282 UMC/(8789:8789): TLB creada
+[INFO] 17:38:03:594 UMC/(8789:8789): UMC Escuchando
+[INFO] 17:38:07:221 UMC/(8789:8789): Espero al Nucleo
+[INFO] 17:38:17:409 UMC/(8789:8789): Se conecto el nucleo
+[INFO] 17:38:18:644 UMC/(8789:8789): Se creo el hilo 0 para el nucleo
+[INFO] 17:38:19:571 UMC/(8789:8789): Espero a las CPUs
+[INFO] 17:38:23:108 UMC/(8789:8856): Nucleo solicita Inicializacion del programa con pid: 6
+[INFO] 17:38:58:280 UMC/(8789:8856): Se inicializo correctamente el programa correspondiente al PID: 6
+[INFO] 17:44:01:293 UMC/(9001:9001): Se conecto correctamente al SWAP
+[INFO] 17:44:01:293 UMC/(9001:9001): Frames creados
+[INFO] 17:44:01:293 UMC/(9001:9001): TLB creada
+[INFO] 17:44:01:293 UMC/(9001:9001): UMC Escuchando
+[INFO] 17:44:01:293 UMC/(9001:9001): Espero al Nucleo
+[INFO] 17:44:07:586 UMC/(9001:9001): Se conecto el nucleo
+[INFO] 17:44:07:589 UMC/(9001:9001): Se creo el hilo 0 para el nucleo
+[INFO] 17:44:07:590 UMC/(9001:9001): Espero a las CPUs
+[INFO] 17:44:11:477 UMC/(9001:9008): Nucleo solicita Inicializacion del programa con pid: 6
+[INFO] 17:44:11:481 UMC/(9001:9008): Se inicializo correctamente el programa correspondiente al PID: 6
+[INFO] 17:48:57:803 UMC/(9211:9211): Se conecto correctamente al SWAP
+[INFO] 17:48:57:805 UMC/(9211:9211): Frames creados
+[INFO] 17:48:57:805 UMC/(9211:9211): TLB creada
+[INFO] 17:48:57:805 UMC/(9211:9211): UMC Escuchando
+[INFO] 17:48:57:805 UMC/(9211:9211): Espero al Nucleo
+[INFO] 17:49:01:899 UMC/(9211:9211): Se conecto el nucleo
+[INFO] 17:49:01:901 UMC/(9211:9211): Se creo el hilo 0 para el nucleo
+[INFO] 17:49:01:902 UMC/(9211:9211): Espero a las CPUs
+[INFO] 17:49:05:343 UMC/(9211:9218): Nucleo solicita Inicializacion del programa con pid: 6
+[INFO] 17:49:05:347 UMC/(9211:9218): Se inicializo correctamente el programa correspondiente al PID: 6
+[INFO] 17:56:50:678 UMC/(9400:9400): Se conecto correctamente al SWAP
+[INFO] 17:56:50:678 UMC/(9400:9400): Frames creados
+[INFO] 17:56:50:678 UMC/(9400:9400): TLB creada
+[INFO] 17:56:50:679 UMC/(9400:9400): UMC Escuchando
+[INFO] 17:56:50:679 UMC/(9400:9400): Espero al Nucleo
+[INFO] 17:57:04:790 UMC/(9400:9400): Se conecto el nucleo
+[INFO] 17:57:04:791 UMC/(9400:9400): Se creo el hilo 0 para el nucleo
+[INFO] 17:57:04:791 UMC/(9400:9400): Espero a las CPUs
+[INFO] 17:57:11:61 UMC/(9400:9412): Nucleo solicita Inicializacion del programa con pid: 6
+[INFO] 17:57:11:64 UMC/(9400:9412): Se inicializo correctamente el programa correspondiente al PID: 6
+[INFO] 18:00:54:453 UMC/(9400:9412): Se desconecto el nucleo, cerrando UMC
+[INFO] 18:02:10:159 UMC/(9493:9493): Se conecto correctamente al SWAP
+[INFO] 18:02:10:159 UMC/(9493:9493): Frames creados
+[INFO] 18:02:10:159 UMC/(9493:9493): TLB creada
+[INFO] 18:02:10:160 UMC/(9493:9493): UMC Escuchando
+[INFO] 18:02:10:160 UMC/(9493:9493): Espero al Nucleo
+[INFO] 18:02:14:308 UMC/(9493:9493): Se conecto el nucleo
+[INFO] 18:02:14:310 UMC/(9493:9493): Se creo el hilo 0 para el nucleo
+[INFO] 18:02:14:310 UMC/(9493:9493): Espero a las CPUs
+[INFO] 18:02:20:309 UMC/(9493:9500): Nucleo solicita Inicializacion del programa con pid: 6
+[INFO] 18:02:25:794 UMC/(9493:9500): Se inicializo correctamente el programa correspondiente al PID: 6
+[INFO] 18:07:25:575 UMC/(9493:9493): Llego una CPU en el socket 7
+[INFO] 18:07:25:576 UMC/(9493:9493): Se creo el hilo 0 para un CPU
+[ERROR] 18:07:59:986 UMC/(9493:9518): se cayo el CPU correspondiente al socket: 7
+[INFO] 18:08:09:46 UMC/(9493:9500): Se desconecto el nucleo, cerrando UMC
+[INFO] 18:09:02:979 UMC/(9544:9544): Se conecto correctamente al SWAP
+[INFO] 18:09:02:979 UMC/(9544:9544): Frames creados
+[INFO] 18:09:02:980 UMC/(9544:9544): TLB creada
+[INFO] 18:09:02:980 UMC/(9544:9544): UMC Escuchando
+[INFO] 18:09:02:980 UMC/(9544:9544): Espero al Nucleo
+[INFO] 18:12:28:346 UMC/(9544:9544): Se conecto el nucleo
+[INFO] 18:12:28:346 UMC/(9544:9544): Se creo el hilo 0 para el nucleo
+[INFO] 18:12:28:346 UMC/(9544:9544): Espero a las CPUs
+[INFO] 18:12:41:829 UMC/(9544:9564): Nucleo solicita Inicializacion del programa con pid: 6
+[INFO] 18:12:41:834 UMC/(9544:9564): Se inicializo correctamente el programa correspondiente al PID: 6
+[INFO] 18:14:49:428 UMC/(9544:9544): Llego una CPU en el socket 7
+[INFO] 18:14:49:429 UMC/(9544:9544): Se creo el hilo 0 para un CPU
+[INFO] 18:17:31:918 UMC/(9641:9641): Se conecto correctamente al SWAP
+[INFO] 18:17:31:918 UMC/(9641:9641): Frames creados
+[INFO] 18:17:31:919 UMC/(9641:9641): TLB creada
+[INFO] 18:17:31:919 UMC/(9641:9641): UMC Escuchando
+[INFO] 18:17:31:919 UMC/(9641:9641): Espero al Nucleo
+[INFO] 18:24:28:740 UMC/(9820:9820): Se conecto correctamente al SWAP
+[INFO] 18:24:28:741 UMC/(9820:9820): Frames creados
+[INFO] 18:24:28:741 UMC/(9820:9820): TLB creada
+[INFO] 18:24:28:742 UMC/(9820:9820): UMC Escuchando
+[INFO] 18:24:28:742 UMC/(9820:9820): Espero al Nucleo
+[INFO] 18:27:02:819 UMC/(9820:9820): Se conecto el nucleo
+[INFO] 18:27:02:823 UMC/(9820:9820): Se creo el hilo 0 para el nucleo
+[INFO] 18:27:02:823 UMC/(9820:9820): Espero a las CPUs
+[INFO] 18:27:44:916 UMC/(9820:9845): Nucleo solicita Inicializacion del programa con pid: 6
+[INFO] 18:27:44:918 UMC/(9820:9845): Se inicializo correctamente el programa correspondiente al PID: 6
+[INFO] 18:27:56:1 UMC/(9820:9820): Llego una CPU en el socket 7
+[INFO] 18:27:56:3 UMC/(9820:9820): Se creo el hilo 0 para un CPU
+[ERROR] 18:29:13:264 UMC/(9820:9848): se cayo el CPU correspondiente al socket: 7
+[INFO] 18:29:34:815 UMC/(9875:9875): Se conecto correctamente al SWAP
+[INFO] 18:29:34:815 UMC/(9875:9875): Frames creados
+[INFO] 18:29:34:816 UMC/(9875:9875): TLB creada
+[INFO] 18:29:34:816 UMC/(9875:9875): UMC Escuchando
+[INFO] 18:29:34:816 UMC/(9875:9875): Espero al Nucleo
+[INFO] 18:29:44:365 UMC/(9875:9875): Se conecto el nucleo
+[INFO] 18:29:44:367 UMC/(9875:9875): Se creo el hilo 0 para el nucleo
+[INFO] 18:29:44:367 UMC/(9875:9875): Espero a las CPUs
+[INFO] 18:30:23:793 UMC/(9875:9882): Nucleo solicita Inicializacion del programa con pid: 6
+[INFO] 18:30:23:796 UMC/(9875:9882): Se inicializo correctamente el programa correspondiente al PID: 6
+[INFO] 18:30:38:209 UMC/(9875:9875): Llego una CPU en el socket 7
+[INFO] 18:30:38:211 UMC/(9875:9875): Se creo el hilo 0 para un CPU
+[INFO] 18:31:14:210 UMC/(9875:9882): Se desconecto el nucleo, cerrando UMC
+[INFO] 18:33:52:82 UMC/(9974:9974): Se conecto correctamente al SWAP
+[INFO] 18:33:52:82 UMC/(9974:9974): Frames creados
+[INFO] 18:33:52:83 UMC/(9974:9974): TLB creada
+[INFO] 18:33:52:83 UMC/(9974:9974): UMC Escuchando
+[INFO] 18:33:52:83 UMC/(9974:9974): Espero al Nucleo
+[INFO] 18:33:59:756 UMC/(9974:9974): Se conecto el nucleo
+[INFO] 18:33:59:758 UMC/(9974:9974): Se creo el hilo 0 para el nucleo
+[INFO] 18:33:59:758 UMC/(9974:9974): Espero a las CPUs
+[INFO] 18:34:19:709 UMC/(9974:9981): Nucleo solicita Inicializacion del programa con pid: 6
+[INFO] 18:34:19:713 UMC/(9974:9981): Se inicializo correctamente el programa correspondiente al PID: 6
+[INFO] 18:34:57:475 UMC/(9974:9974): Llego una CPU en el socket 7
+[INFO] 18:34:57:477 UMC/(9974:9974): Se creo el hilo 0 para un CPU
+[INFO] 18:35:44:701 UMC/(9974:9981): Se desconecto el nucleo, cerrando UMC
+[INFO] 18:38:25:560 UMC/(10028:10028): Se conecto correctamente al SWAP
+[INFO] 18:38:25:561 UMC/(10028:10028): Frames creados
+[INFO] 18:38:25:561 UMC/(10028:10028): TLB creada
+[INFO] 18:38:25:561 UMC/(10028:10028): UMC Escuchando
+[INFO] 18:38:25:561 UMC/(10028:10028): Espero al Nucleo
+[INFO] 18:38:31:379 UMC/(10028:10028): Se conecto el nucleo
+[INFO] 18:38:31:381 UMC/(10028:10028): Se creo el hilo 0 para el nucleo
+[INFO] 18:38:31:382 UMC/(10028:10028): Espero a las CPUs
+[INFO] 18:38:45:948 UMC/(10028:10035): Nucleo solicita Inicializacion del programa con pid: 6
+[INFO] 18:38:45:952 UMC/(10028:10035): Se inicializo correctamente el programa correspondiente al PID: 6
+[INFO] 18:38:55:829 UMC/(10028:10028): Llego una CPU en el socket 7
+[INFO] 18:38:55:831 UMC/(10028:10028): Se creo el hilo 0 para un CPU
+[INFO] 18:39:59:401 UMC/(10028:10035): Se desconecto el nucleo, cerrando UMC
+[INFO] 18:41:18:101 UMC/(10078:10078): Se conecto correctamente al SWAP
+[INFO] 18:41:18:102 UMC/(10078:10078): Frames creados
+[INFO] 18:41:18:103 UMC/(10078:10078): TLB creada
+[INFO] 18:41:18:103 UMC/(10078:10078): UMC Escuchando
+[INFO] 18:41:18:103 UMC/(10078:10078): Espero al Nucleo
+[INFO] 18:41:22:972 UMC/(10078:10078): Se conecto el nucleo
+[INFO] 18:41:22:974 UMC/(10078:10078): Se creo el hilo 0 para el nucleo
+[INFO] 18:41:22:974 UMC/(10078:10078): Espero a las CPUs
+[INFO] 18:41:44:14 UMC/(10078:10085): Nucleo solicita Inicializacion del programa con pid: 6
+[INFO] 18:41:44:17 UMC/(10078:10085): Se inicializo correctamente el programa correspondiente al PID: 6
+[INFO] 18:41:54:209 UMC/(10078:10078): Llego una CPU en el socket 7
+[INFO] 18:41:54:214 UMC/(10078:10078): Se creo el hilo 0 para un CPU
+[INFO] 18:43:12:247 UMC/(10078:10085): Se desconecto el nucleo, cerrando UMC
+[INFO] 18:50:07:344 UMC/(10149:10149): Se conecto correctamente al SWAP
+[INFO] 18:50:07:344 UMC/(10149:10149): Frames creados
+[INFO] 18:50:07:345 UMC/(10149:10149): TLB creada
+[INFO] 18:50:07:345 UMC/(10149:10149): UMC Escuchando
+[INFO] 18:50:07:345 UMC/(10149:10149): Espero al Nucleo
+[INFO] 18:50:58:768 UMC/(10149:10149): Se conecto el nucleo
+[INFO] 18:50:58:768 UMC/(10149:10149): Se creo el hilo 0 para el nucleo
+[INFO] 18:50:58:769 UMC/(10149:10149): Espero a las CPUs
+[INFO] 18:51:32:512 UMC/(10149:10161): Nucleo solicita Inicializacion del programa con pid: 6
+[INFO] 18:51:32:516 UMC/(10149:10161): Se inicializo correctamente el programa correspondiente al PID: 6
+[INFO] 18:51:45:467 UMC/(10149:10149): Llego una CPU en el socket 7
+[INFO] 18:51:45:469 UMC/(10149:10149): Se creo el hilo 0 para un CPU
+[INFO] 18:54:45:286 UMC/(10149:10161): Se desconecto el nucleo, cerrando UMC
+[INFO] 18:59:44:71 UMC/(10237:10237): Se conecto correctamente al SWAP
+[INFO] 18:59:44:71 UMC/(10237:10237): Frames creados
+[INFO] 18:59:44:71 UMC/(10237:10237): TLB creada
+[INFO] 18:59:44:72 UMC/(10237:10237): UMC Escuchando
+[INFO] 18:59:44:72 UMC/(10237:10237): Espero al Nucleo
+[INFO] 19:02:56:101 UMC/(10237:10237): Se conecto el nucleo
+[INFO] 19:02:56:104 UMC/(10237:10237): Se creo el hilo 0 para el nucleo
+[INFO] 19:02:56:104 UMC/(10237:10237): Espero a las CPUs
+[INFO] 19:03:12:767 UMC/(10237:10258): Nucleo solicita Inicializacion del programa con pid: 6
+[INFO] 19:03:12:770 UMC/(10237:10258): Se inicializo correctamente el programa correspondiente al PID: 6
+[INFO] 19:03:24:515 UMC/(10237:10237): Llego una CPU en el socket 7
+[INFO] 19:03:24:515 UMC/(10237:10237): Se creo el hilo 0 para un CPU
+[INFO] 19:07:46:87 UMC/(10237:10258): Se desconecto el nucleo, cerrando UMC
+[INFO] 19:09:22:942 UMC/(10315:10315): Se conecto correctamente al SWAP
+[INFO] 19:09:22:942 UMC/(10315:10315): Frames creados
+[INFO] 19:09:22:942 UMC/(10315:10315): TLB creada
+[INFO] 19:09:22:942 UMC/(10315:10315): UMC Escuchando
+[INFO] 19:09:22:942 UMC/(10315:10315): Espero al Nucleo
+[INFO] 19:10:18:414 UMC/(10315:10315): Se conecto el nucleo
+[INFO] 19:10:18:420 UMC/(10315:10315): Se creo el hilo 0 para el nucleo
+[INFO] 19:10:18:420 UMC/(10315:10315): Espero a las CPUs
+[INFO] 19:10:50:280 UMC/(10315:10328): Nucleo solicita Inicializacion del programa con pid: 6
+[INFO] 19:10:50:284 UMC/(10315:10328): Se inicializo correctamente el programa correspondiente al PID: 6
+[INFO] 19:11:46:24 UMC/(10315:10315): Llego una CPU en el socket 7
+[INFO] 19:11:46:25 UMC/(10315:10315): Se creo el hilo 0 para un CPU
+[INFO] 19:13:37:955 UMC/(10315:10328): Se desconecto el nucleo, cerrando UMC
+[ERROR] 19:17:28:660 UMC/(10387:10387): No se pudo conectar al SWAP
+[ERROR] 19:17:45:320 UMC/(10414:10414): No se pudo conectar al SWAP
+[ERROR] 19:18:01:264 UMC/(10440:10440): No se pudo conectar al SWAP
+[INFO] 19:19:02:919 UMC/(10534:10534): Se conecto correctamente al SWAP
+[INFO] 19:19:02:921 UMC/(10534:10534): Frames creados
+[INFO] 19:19:02:922 UMC/(10534:10534): TLB creada
+[INFO] 19:19:02:922 UMC/(10534:10534): UMC Escuchando
+[INFO] 19:19:02:923 UMC/(10534:10534): Espero al Nucleo
+[INFO] 19:19:14:418 UMC/(10534:10534): Se conecto el nucleo
+[INFO] 19:19:14:420 UMC/(10534:10534): Se creo el hilo 0 para el nucleo
+[INFO] 19:19:14:420 UMC/(10534:10534): Espero a las CPUs
+[INFO] 19:19:58:146 UMC/(10534:10541): Nucleo solicita Inicializacion del programa con pid: 6
+[INFO] 19:19:58:150 UMC/(10534:10541): Se inicializo correctamente el programa correspondiente al PID: 6
+[INFO] 19:20:58:452 UMC/(10534:10534): Llego una CPU en el socket 7
+[INFO] 19:20:58:455 UMC/(10534:10534): Se creo el hilo 0 para un CPU
+[ERROR] 19:24:30:893 UMC/(10534:10568): se cayo el CPU correspondiente al socket: 7
+[INFO] 19:52:25:225 UMC/(11129:11129): Se conecto correctamente al SWAP
+[INFO] 19:52:25:226 UMC/(11129:11129): Frames creados
+[INFO] 19:52:25:226 UMC/(11129:11129): TLB creada
+[INFO] 19:52:25:226 UMC/(11129:11129): UMC Escuchando
+[INFO] 19:52:25:226 UMC/(11129:11129): Espero al Nucleo
+[INFO] 19:52:32:121 UMC/(11129:11129): Se conecto el nucleo
+[INFO] 19:52:32:123 UMC/(11129:11129): Se creo el hilo 0 para el nucleo
+[INFO] 19:52:32:123 UMC/(11129:11129): Espero a las CPUs
+[INFO] 19:52:38:114 UMC/(11129:11136): Nucleo solicita Inicializacion del programa con pid: 6
+[INFO] 19:52:38:117 UMC/(11129:11136): Se inicializo correctamente el programa correspondiente al PID: 6
+[INFO] 19:52:55:237 UMC/(11129:11129): Llego una CPU en el socket 7
+[INFO] 19:52:55:238 UMC/(11129:11129): Se creo el hilo 0 para un CPU
+[ERROR] 19:52:55:238 UMC/(11129:11145): se cayo el CPU correspondiente al socket: 7
+[INFO] 19:53:26:12 UMC/(11129:11136): Se desconecto el nucleo, cerrando UMC
+[INFO] 19:53:39:741 UMC/(11168:11168): Se conecto correctamente al SWAP
+[INFO] 19:53:39:742 UMC/(11168:11168): Frames creados
+[INFO] 19:53:39:743 UMC/(11168:11168): TLB creada
+[INFO] 19:53:39:743 UMC/(11168:11168): UMC Escuchando
+[INFO] 19:53:39:744 UMC/(11168:11168): Espero al Nucleo
+[INFO] 19:53:47:742 UMC/(11168:11168): Se conecto el nucleo
+[INFO] 19:53:47:745 UMC/(11168:11168): Se creo el hilo 0 para el nucleo
+[INFO] 19:53:47:745 UMC/(11168:11168): Espero a las CPUs
+[INFO] 19:53:52:539 UMC/(11168:11177): Nucleo solicita Inicializacion del programa con pid: 6
+[INFO] 19:53:52:542 UMC/(11168:11177): Se inicializo correctamente el programa correspondiente al PID: 6
+[INFO] 19:54:00:87 UMC/(11168:11168): Llego una CPU en el socket 7
+[INFO] 19:54:00:87 UMC/(11168:11168): Se creo el hilo 0 para un CPU
+[ERROR] 19:54:00:88 UMC/(11168:11187): se cayo el CPU correspondiente al socket: 7
+[INFO] 19:55:16:309 UMC/(11168:11177): Se desconecto el nucleo, cerrando UMC
+[INFO] 19:55:31:76 UMC/(11296:11296): Se conecto correctamente al SWAP
+[INFO] 19:55:31:76 UMC/(11296:11296): Frames creados
+[INFO] 19:55:31:76 UMC/(11296:11296): TLB creada
+[INFO] 19:55:31:76 UMC/(11296:11296): UMC Escuchando
+[INFO] 19:55:31:77 UMC/(11296:11296): Espero al Nucleo
+[INFO] 19:55:40:370 UMC/(11296:11296): Se conecto el nucleo
+[INFO] 19:55:40:373 UMC/(11296:11296): Se creo el hilo 0 para el nucleo
+[INFO] 19:55:40:373 UMC/(11296:11296): Espero a las CPUs
+[INFO] 19:55:41:904 UMC/(11296:11303): Nucleo solicita Inicializacion del programa con pid: 6
+[INFO] 19:55:41:908 UMC/(11296:11303): Se inicializo correctamente el programa correspondiente al PID: 6
+[INFO] 19:55:52:410 UMC/(11296:11296): Llego una CPU en el socket 7
+[INFO] 19:55:52:412 UMC/(11296:11296): Se creo el hilo 0 para un CPU
+[INFO] 19:56:02:167 UMC/(11296:11309): Cambio el proceso 0 por otro con pid 6
+[ERROR] 19:56:55:8 UMC/(11296:11309): se cayo el CPU correspondiente al socket: 7
+[INFO] 19:57:39:155 UMC/(11348:11348): Se conecto correctamente al SWAP
+[INFO] 19:57:39:157 UMC/(11348:11348): Frames creados
+[INFO] 19:57:39:157 UMC/(11348:11348): TLB creada
+[ERROR] 19:57:49:236 UMC/(11372:11372): No se pudo conectar al SWAP
+[INFO] 19:58:03:59 UMC/(11398:11398): Se conecto correctamente al SWAP
+[INFO] 19:58:03:60 UMC/(11398:11398): Frames creados
+[INFO] 19:58:03:60 UMC/(11398:11398): TLB creada
+[INFO] 19:58:03:60 UMC/(11398:11398): UMC Escuchando
+[INFO] 19:58:03:60 UMC/(11398:11398): Espero al Nucleo
+[INFO] 19:58:09:959 UMC/(11398:11398): Se conecto el nucleo
+[INFO] 19:58:09:962 UMC/(11398:11398): Se creo el hilo 0 para el nucleo
+[INFO] 19:58:09:962 UMC/(11398:11398): Espero a las CPUs
+[INFO] 19:58:12:50 UMC/(11398:11405): Nucleo solicita Inicializacion del programa con pid: 6
+[INFO] 19:58:12:54 UMC/(11398:11405): Se inicializo correctamente el programa correspondiente al PID: 6
+[INFO] 19:58:19:380 UMC/(11398:11398): Llego una CPU en el socket 7
+[INFO] 19:58:19:382 UMC/(11398:11398): Se creo el hilo 0 para un CPU
+[INFO] 19:58:23:823 UMC/(11398:11406): Cambio el proceso 0 por otro con pid 6
+[INFO] 19:58:33:763 UMC/(11398:11406): No se encontro la pagina 0 correspondiente al pid 6 en memoria principal
+[INFO] 19:58:33:763 UMC/(11398:11406): Pido la pagina al swap
+[INFO] 20:00:41:845 UMC/(11450:11450): Se conecto correctamente al SWAP
+[INFO] 20:00:42:24 UMC/(11450:11450): Frames creados
+[INFO] 20:00:42:24 UMC/(11450:11450): TLB creada
+[INFO] 20:00:42:981 UMC/(11450:11450): UMC Escuchando
+[INFO] 20:00:43:805 UMC/(11450:11450): Espero al Nucleo
+[INFO] 20:01:35:226 UMC/(11450:11450): Se conecto el nucleo
+[INFO] 20:01:37:399 UMC/(11450:11450): Se creo el hilo 0 para el nucleo
+[INFO] 20:01:39:220 UMC/(11450:11450): Espero a las CPUs
+[INFO] 20:01:44:641 UMC/(11450:11512): Se desconecto el nucleo, cerrando UMC
+[INFO] 20:02:12:282 UMC/(11559:11559): Se conecto correctamente al SWAP
+[INFO] 20:02:12:541 UMC/(11559:11559): Frames creados
+[INFO] 20:02:12:542 UMC/(11559:11559): TLB creada
+[INFO] 20:02:13:843 UMC/(11559:11559): UMC Escuchando
+[INFO] 20:02:15:832 UMC/(11559:11559): Espero al Nucleo
+[INFO] 20:02:22:850 UMC/(11559:11559): Se conecto el nucleo
+[INFO] 20:02:23:766 UMC/(11559:11559): Se creo el hilo 0 para el nucleo
+[INFO] 20:02:24:237 UMC/(11559:11559): Espero a las CPUs
+[INFO] 20:02:26:343 UMC/(11559:11621): Nucleo solicita Inicializacion del programa con pid: 6
+[INFO] 20:02:26:347 UMC/(11559:11621): Se inicializo correctamente el programa correspondiente al PID: 6
+[INFO] 20:02:47:204 UMC/(11559:11559): Llego una CPU en el socket 7
+[INFO] 20:02:48:141 UMC/(11559:11559): Se creo el hilo 0 para un CPU
+[INFO] 20:03:00:903 UMC/(11559:11638): Cambio el proceso 0 por otro con pid 6
+[INFO] 20:03:18:930 UMC/(11559:11638): No se encontro la pagina 0 correspondiente al pid 6 en memoria principal
+[INFO] 20:03:18:930 UMC/(11559:11638): Pido la pagina al swap
+[INFO] 20:06:20:701 UMC/(11700:11700): Se conecto correctamente al SWAP
+[INFO] 20:06:21:55 UMC/(11700:11700): Frames creados
+[INFO] 20:06:21:55 UMC/(11700:11700): TLB creada
+[INFO] 20:06:21:943 UMC/(11700:11700): UMC Escuchando
+[INFO] 20:06:22:849 UMC/(11700:11700): Espero al Nucleo
+[INFO] 20:06:39:358 UMC/(11700:11700): Se conecto el nucleo
+[INFO] 20:06:39:978 UMC/(11700:11700): Se creo el hilo 0 para el nucleo
+[INFO] 20:06:40:805 UMC/(11700:11700): Espero a las CPUs
+[INFO] 20:06:42:825 UMC/(11700:11764): Nucleo solicita Inicializacion del programa con pid: 6
+[INFO] 20:06:42:828 UMC/(11700:11764): Se inicializo correctamente el programa correspondiente al PID: 6
+[INFO] 20:06:56:610 UMC/(11700:11700): Llego una CPU en el socket 7
+[INFO] 20:06:57:218 UMC/(11700:11700): Se creo el hilo 0 para un CPU
+[INFO] 20:07:03:859 UMC/(11700:11787): Cambio el proceso 0 por otro con pid 6
+[INFO] 20:07:14:506 UMC/(11700:11787): No se encontro la pagina 0 correspondiente al pid 6 en memoria principal
+[INFO] 20:07:14:506 UMC/(11700:11787): Pido la pagina al swap
+[INFO] 20:07:45:484 UMC/(11828:11828): Se conecto correctamente al SWAP
+[INFO] 20:07:45:634 UMC/(11828:11828): Frames creados
+[INFO] 20:07:45:635 UMC/(11828:11828): TLB creada
+[INFO] 20:07:46:96 UMC/(11828:11828): UMC Escuchando
+[INFO] 20:07:46:839 UMC/(11828:11828): Espero al Nucleo
+[INFO] 20:07:55:65 UMC/(11828:11828): Se conecto el nucleo
+[INFO] 20:07:55:692 UMC/(11828:11828): Se creo el hilo 0 para el nucleo
+[INFO] 20:07:56:349 UMC/(11828:11828): Espero a las CPUs
+[INFO] 20:07:59:350 UMC/(11828:11877): Nucleo solicita Inicializacion del programa con pid: 6
+[INFO] 20:07:59:355 UMC/(11828:11877): Se inicializo correctamente el programa correspondiente al PID: 6
+[INFO] 20:08:14:25 UMC/(11828:11828): Llego una CPU en el socket 7
+[INFO] 20:08:14:628 UMC/(11828:11828): Se creo el hilo 0 para un CPU
+[INFO] 20:08:19:661 UMC/(11828:11895): Cambio el proceso 0 por otro con pid 6
+[INFO] 20:08:25:621 UMC/(11828:11895): No se encontro la pagina 0 correspondiente al pid 6 en memoria principal
+[INFO] 20:08:25:621 UMC/(11828:11895): Pido la pagina al swap
+[INFO] 20:10:49:313 UMC/(12030:12030): Se conecto correctamente al SWAP
+[INFO] 20:10:49:345 UMC/(12030:12030): Frames creados
+[INFO] 20:10:49:345 UMC/(12030:12030): TLB creada
+[INFO] 20:10:49:345 UMC/(12030:12030): UMC Escuchando
+[INFO] 20:10:49:346 UMC/(12030:12030): Espero al Nucleo
+[INFO] 20:11:08:443 UMC/(12030:12030): Se conecto el nucleo
+[INFO] 20:11:08:444 UMC/(12030:12030): Se creo el hilo 0 para el nucleo
+[INFO] 20:11:08:444 UMC/(12030:12030): Espero a las CPUs
+[INFO] 20:11:10:188 UMC/(12030:12042): Nucleo solicita Inicializacion del programa con pid: 6
+[INFO] 20:11:10:191 UMC/(12030:12042): Se inicializo correctamente el programa correspondiente al PID: 6
+[INFO] 20:11:19:546 UMC/(12030:12030): Llego una CPU en el socket 7
+[INFO] 20:11:19:549 UMC/(12030:12030): Se creo el hilo 0 para un CPU
+[INFO] 20:11:23:314 UMC/(12030:12044): Cambio el proceso 0 por otro con pid 6
+[INFO] 20:11:28:124 UMC/(12030:12044): No se encontro la pagina 0 correspondiente al pid 6 en memoria principal
+[INFO] 20:11:28:126 UMC/(12030:12044): Pido la pagina al swap
+[INFO] 20:13:35:216 UMC/(12097:12097): Se conecto correctamente al SWAP
+[INFO] 20:13:35:216 UMC/(12097:12097): Frames creados
+[INFO] 20:13:35:216 UMC/(12097:12097): TLB creada
+[INFO] 20:13:35:216 UMC/(12097:12097): UMC Escuchando
+[INFO] 20:13:35:216 UMC/(12097:12097): Espero al Nucleo
+[INFO] 20:13:41:527 UMC/(12097:12097): Se conecto el nucleo
+[INFO] 20:13:41:528 UMC/(12097:12097): Se creo el hilo 0 para el nucleo
+[INFO] 20:13:41:528 UMC/(12097:12097): Espero a las CPUs
+[INFO] 20:13:43:164 UMC/(12097:12109): Nucleo solicita Inicializacion del programa con pid: 6
+[INFO] 20:13:43:168 UMC/(12097:12109): Se inicializo correctamente el programa correspondiente al PID: 6
+[INFO] 20:17:21:86 UMC/(12310:12310): Se conecto correctamente al SWAP
+[INFO] 20:17:21:90 UMC/(12310:12310): Frames creados
+[INFO] 20:17:21:91 UMC/(12310:12310): TLB creada
+[INFO] 20:17:21:93 UMC/(12310:12310): UMC Escuchando
+[INFO] 20:17:21:93 UMC/(12310:12310): Espero al Nucleo
+[INFO] 20:17:25:159 UMC/(12310:12310): Se conecto el nucleo
+[INFO] 20:17:25:162 UMC/(12310:12310): Se creo el hilo 0 para el nucleo
+[INFO] 20:17:25:162 UMC/(12310:12310): Espero a las CPUs
+[INFO] 20:17:27:94 UMC/(12310:12317): Nucleo solicita Inicializacion del programa con pid: 6
+[INFO] 20:17:27:97 UMC/(12310:12317): Se inicializo correctamente el programa correspondiente al PID: 6
+[INFO] 20:20:28:517 UMC/(12359:12359): Se conecto correctamente al SWAP
+[INFO] 20:20:28:518 UMC/(12359:12359): Frames creados
+[INFO] 20:20:28:518 UMC/(12359:12359): TLB creada
+[INFO] 20:20:28:518 UMC/(12359:12359): UMC Escuchando
+[INFO] 20:20:28:518 UMC/(12359:12359): Espero al Nucleo
+[INFO] 20:20:37:624 UMC/(12359:12359): Se conecto el nucleo
+[INFO] 20:20:37:626 UMC/(12359:12359): Se creo el hilo 0 para el nucleo
+[INFO] 20:20:37:627 UMC/(12359:12359): Espero a las CPUs
+[INFO] 20:20:42:552 UMC/(12359:12373): Nucleo solicita Inicializacion del programa con pid: 6
+[INFO] 20:20:42:556 UMC/(12359:12373): Se inicializo correctamente el programa correspondiente al PID: 6
+[INFO] 20:20:53:419 UMC/(12359:12359): Llego una CPU en el socket 7
+[INFO] 20:20:53:421 UMC/(12359:12359): Se creo el hilo 0 para un CPU
+[INFO] 20:20:56:632 UMC/(12359:12381): Cambio el proceso 0 por otro con pid 6
+[INFO] 20:21:00:644 UMC/(12359:12381): No se encontro la pagina 0 correspondiente al pid 6 en memoria principal
+[INFO] 20:21:00:645 UMC/(12359:12381): Pido la pagina al swap
